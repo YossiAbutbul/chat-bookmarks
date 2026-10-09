@@ -1,0 +1,6 @@
+{
+  "name": "chat-bookmarks",
+  "version": "0.1.0",
+  "description": "A bookmark button on each reply; click a mark above the prompt to scroll back to it",
+  "types": "./types/index.d.ts"
+}
